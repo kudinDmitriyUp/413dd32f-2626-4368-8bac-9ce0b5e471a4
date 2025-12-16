@@ -168,10 +168,6 @@ export default function LearningPage() {
           animationType="slide-up"
           containerStyle="card"
           useInvertedBackground="noInvert"
-          titleClassName="text-4xl font-bold"
-          descriptionClassName="text-lg"
-          valueClassName="text-9xl font-bold text-accent"
-          metricTitleClassName="text-2xl font-semibold"
         />
       </div>
 
@@ -235,8 +231,6 @@ export default function LearningPage() {
             }
           ]}
           speed={40}
-          titleClassName="text-4xl font-bold"
-          descriptionClassName="text-lg"
         />
       </div>
 
