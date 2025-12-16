@@ -6,11 +6,11 @@
 
   --background: #0a0a0a;
   --card: #1a1a1a;
-  --foreground: #f0e6ffe6;
-  --primary-cta: #b366ff;
+  --foreground: #fffef5e6;
+  --primary-cta: #facc15;
   --secondary-cta: #1a1a1a;
-  --accent: #b58cff;
-  --background-accent: #6b28d9;
+  --accent: #fde047;
+  --background-accent: #eab308;
 
   /* text sizing - set by ThemeProvider */
   /* --text-2xs: clamp(0.465rem, 0.62vw, 0.62rem);
