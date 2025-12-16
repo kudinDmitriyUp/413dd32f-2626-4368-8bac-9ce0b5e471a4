@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -122,8 +122,6 @@ export default function LearningPage() {
           animationType="slide-up"
           containerStyle="default"
           useInvertedBackground="noInvert"
-          titleClassName="text-4xl font-bold"
-          descriptionClassName="text-lg"
         />
       </div>
 
